@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RetrofitRestClient</string>
+    <string name="btn_http_client_text">Rest API Call (Github Repos.)</string>
+</resources>
