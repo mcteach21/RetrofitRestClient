@@ -2,6 +2,7 @@ package cda.apps.retrofit;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.appcompat.widget.Toolbar;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
@@ -38,7 +39,12 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        setTitle("(Retrofit) Api Rest Client");
+
+        //setTitle("(Retrofit) Api Rest Client");
+
+        Toolbar toolbar = findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setDisplayShowTitleEnabled(false);
 
         Button btnStart = findViewById(R.id.btnStartHttpClient);
         btnStart.setOnClickListener(v-> startApiCall());

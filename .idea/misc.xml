@@ -4,7 +4,12 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/drawable/container_bordered.xml" value="0.1625" />
-        <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/layout/activity_main.xml" value="0.19010416666666666" />
+        <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/layout/centered_bar_layout.xml" value="0.18" />
+        <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/layout/content_main.xml" value="0.1484375" />
+        <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/layout/fragment_first.xml" value="0.1484375" />
+        <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/layout/fragment_second.xml" value="0.1484375" />
         <entry key="..\:/Dev/AndroidStudioProjects/RetrofitRestClient/app/src/main/res/layout/item_simple_layout.xml" value="0.33" />
       </map>
     </option>
